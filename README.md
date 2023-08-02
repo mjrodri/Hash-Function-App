@@ -27,7 +27,7 @@ The Hash Function Implementation project is a cybersecurity project that impleme
 1. Clone this repository:
    git clone https://github.com/divyaparmar1/hash_function.git
 2. Navigate to the project directory:
-   cd hash-function
+   cd hash_function
 3. Run the script:
    python hash_function.py
    
